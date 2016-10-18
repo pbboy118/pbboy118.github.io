@@ -73,6 +73,6 @@ deploy:
 
 backup:
   type: git
-  repository:
-     repo: https://github.com/pbboy118/pbboy118.github.io.git,master
+  repo: https://github.com/pbboy118/pbboy118.github.io.git
+  branch: master
      #gitcafe: https://github.com/pbboy118/pbboy118.github.io.git,master
