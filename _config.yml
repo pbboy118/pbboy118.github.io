@@ -74,5 +74,5 @@ deploy:
 backup:
   type: git
   repository:
-     github: https://github.com/pbboy118/pbboy118.github.io.git
+     github: git@github.com:pbboy118/pbboy118.github.io.git,master
      #gitcafe: https://github.com/pbboy118/pbboy118.github.io.git,master
